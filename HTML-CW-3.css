@@ -1,0 +1,108 @@
+.main-container{
+    width: 430px;
+    height: 320px;
+    background-color: white;
+    border: 3px solid grey;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.container-a{
+    width: 430px;
+    height: 100px;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom-container{
+    width: 430px;
+    height: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.container-bottom-left{
+    width: 320px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container-bottom-right{
+    width: 100px;
+    height: 210px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-cde{
+    display: flex;
+    justify-content: space-between;
+}
+.container-b{
+    width: 320px;
+    height: 100px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.small-container{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    width: 420px;
+    height: 840px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.upper-container{
+    display: flex;
+    justify-content: space-between;
+}
+.upper-box{
+    width: 200px;
+    height: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-big{
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+}
+.midl-container{
+    width: 420px;
+    height: 200px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom-boxes{
+    width: 420px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-box{
+    width: 125px;
+    height: 150px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
